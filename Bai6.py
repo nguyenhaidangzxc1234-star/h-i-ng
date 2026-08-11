@@ -17,3 +17,4 @@ for percentComplete in range(100):
     myBar.progress(percentComplete+1)
 
 st.balloons()
+st.write("thay phat sieu dep zai")
